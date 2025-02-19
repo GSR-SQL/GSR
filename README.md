@@ -36,7 +36,6 @@ Then, the model is allowed to correct the Pre-SQL based on the information obtai
 Execute the Second-SQL on the database, then integrate the execution results with the prompt as input for the model. Instruct the model to analyze whether the execution results of the Second-SQL are reasonable and refine the Second-SQL accordingly to produce the Final-SQL.
 
 <h2>Project directory structure</h2>
-<hr>
 
 ```plaintext
 GSR/
@@ -57,7 +56,6 @@ GSR/
 ```
 
 <h2>Environment</h2>
-<hr>
 
 ```python
 conda create -n GSR python=3.10
@@ -66,7 +64,6 @@ pip install -r requirements.txt
 ```
 
 <h2>RUN</h2>
-<hr>
 
 <h3>1. Data Preprocessing</h3>
 
@@ -98,7 +95,6 @@ python GSR.py
 You will get the generated SQL file in the output after execution.
 
 <h2>Results</h2>
-<hr>
 
 <h3>Comparsion of execution accuracy</h3>
 
