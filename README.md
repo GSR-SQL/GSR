@@ -103,8 +103,8 @@ You will get the generated SQL file in the output after execution.
 
 <h3>Comparsion of execution accuracy</h3>
 
-![Comparison](figs\Comparison.png)
+![Comparison](figs/Comparison.png)
 
 <h3>Ablation Study</h3>
 
-![Ablation](figs\Ablation_Dev.png)
+![Ablation](figs/Ablation_Dev.png)
