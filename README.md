@@ -3,7 +3,7 @@
 <h2>Overview</h2>
 <hr>
 
-![GSR](figs\GSR.png)
+![GSR](figs/GSR.png)
 
 <h3>1. Clause Decomposition</h3>
 
