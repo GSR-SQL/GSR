@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">LLM Prompting for Text2SQL via Gradual SQL Reffnement</h1>
+<h1 style="text-align: center;">LLM Prompting for Text2SQL via Gradual SQL Refinement</h1>
 
 <h2>Overview</h2>
 
